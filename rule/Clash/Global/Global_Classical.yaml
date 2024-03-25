@@ -10,6 +10,9 @@
 # PROCESS-NAME: 1
 # TOTAL: 37690
 payload:
+  - DOMAIN,xn--ngstr-lra8j.com
+  - DOMAIN,services.googleapis.cn
+  - DOMAIN,xn--ngstr-cn-8za9o.com
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
   - DOMAIN,anime-rule34-world.b-cdn.net
