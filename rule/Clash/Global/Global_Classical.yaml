@@ -168,7 +168,7 @@ payload:
   - DOMAIN,www-cdn.icloud.com.akadns.net
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
-  - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,01.org
   - DOMAIN-SUFFIX,02weqj32.com
   - DOMAIN-SUFFIX,04647.club
