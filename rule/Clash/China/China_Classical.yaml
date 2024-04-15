@@ -26,7 +26,7 @@ payload:
   - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN,www.libvideo.com
   - DOMAIN,www.yxssp.com
-  - DOMAIN,nodeseek.com
+  - DOMAIN,www.nodeseek.com
   - DOMAIN-SUFFIX,00cdn.com
   - DOMAIN-SUFFIX,0123456789.com
   - DOMAIN-SUFFIX,0379home.com
