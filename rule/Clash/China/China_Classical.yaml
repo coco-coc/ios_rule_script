@@ -3627,6 +3627,7 @@ payload:
   - DOMAIN-SUFFIX,zybang.com
   - DOMAIN-SUFFIX,zyh365.com
   - DOMAIN-SUFFIX,zzdtec.com
+  - DOMAIN-KEYWORD,getui
   - DOMAIN-KEYWORD,unicompayment
   - DOMAIN-KEYWORD,timebucks
   - DOMAIN-KEYWORD,-cn
