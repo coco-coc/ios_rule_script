@@ -26,6 +26,8 @@ payload:
   - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN,www.libvideo.com
   - DOMAIN,www.yxssp.com
+  - DOMAIN-SUFFIX,local
+  - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,00cdn.com
   - DOMAIN-SUFFIX,0123456789.com
   - DOMAIN-SUFFIX,0379home.com
@@ -3625,6 +3627,8 @@ payload:
   - DOMAIN-SUFFIX,zybang.com
   - DOMAIN-SUFFIX,zyh365.com
   - DOMAIN-SUFFIX,zzdtec.com
+  - DOMAIN-KEYWORD,timebucks
+  - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
