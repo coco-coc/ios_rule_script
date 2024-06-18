@@ -14,6 +14,7 @@ payload:
   - DOMAIN,xn--ngstr-cn-8za9o.com
   - DOMAIN,adobeereg.com
   - DOMAIN,services.googleapis.cn
+  - DOMAIN,beacons.gvt2.com
   - DOMAIN,angle.com.tw
   - DOMAIN,anime-rule34-world.b-cdn.net
   - DOMAIN,api-p.videomarket.jp
